@@ -1,4 +1,6 @@
-package behavioral.Mediator;
+package behavioral.mediator.component;
+
+import behavioral.mediator.mediator.Mediator;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

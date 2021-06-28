@@ -1,9 +1,11 @@
-package behavioral.Mediator;
+package behavioral.mediator.component;
+
+import behavioral.mediator.mediator.Mediator;
 
 import javax.swing.*;
 import java.awt.event.KeyEvent;
 
-public class Title extends JTextField implements Component {
+public class TextBox extends JTextArea implements Component {
     private Mediator mediator;
 
     @Override
@@ -18,6 +20,6 @@ public class Title extends JTextField implements Component {
 
     @Override
     public String getName() {
-        return "Title";
+        return "TextBox";
     }
 }

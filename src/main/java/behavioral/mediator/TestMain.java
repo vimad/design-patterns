@@ -1,4 +1,8 @@
-package behavioral.Mediator;
+package behavioral.mediator;
+
+import behavioral.mediator.component.*;
+import behavioral.mediator.mediator.Editor;
+import behavioral.mediator.mediator.Mediator;
 
 import javax.swing.*;
 

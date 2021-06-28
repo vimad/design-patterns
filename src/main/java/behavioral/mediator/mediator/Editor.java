@@ -1,4 +1,9 @@
-package behavioral.Mediator;
+package behavioral.mediator.mediator;
+
+import behavioral.mediator.*;
+import behavioral.mediator.component.Component;
+import behavioral.mediator.component.*;
+import behavioral.mediator.component.List;
 
 import javax.swing.*;
 import javax.swing.border.LineBorder;

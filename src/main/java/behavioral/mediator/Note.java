@@ -1,4 +1,4 @@
-package behavioral.Mediator;
+package behavioral.mediator;
 
 public class Note {
     private String name;
