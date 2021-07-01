@@ -1,4 +1,4 @@
-package behavioral.template;
+package behavioral.templatemethod;
 
 public abstract class Network {
     String userName;

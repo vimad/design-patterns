@@ -1,4 +1,4 @@
-package behavioral.template;
+package behavioral.templatemethod;
 
 import java.io.BufferedReader;
 import java.io.IOException;
